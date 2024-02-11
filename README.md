@@ -7,7 +7,7 @@ I'm currently developing surrogate models of gravitational waves emitted bianry 
 - :computer: I’m currently working on [Black Hole Perturbation Toolkit](http://bhptoolkit.org)
 - :fountain_pen: I'm a Ph.D. student at the University of Rhode Island
 - :pushpin: I received M.Sc. in physics from IIT, Bombay
-- :memo: I’m learning about black hole perturbation theory and HPC clusters
+- :memo: I’m learning about black hole perturbation theory
 - 💬 Ask me about phyics, black holes, universe etc 
 
 To know more about my research please visit (www.riteshbachhar.com). Feel free to contact me (riteshbachhar@gmail.com) for interesting conversations and collaboration.
