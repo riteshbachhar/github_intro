@@ -10,7 +10,9 @@ I'm currently developing surrogate models of gravitational waves emitted bianry 
   - Black hole phenomenology and tidal interaction of BHs
 - :fountain_pen: I'm a Ph.D. student at the University of Rhode Island
 - :pushpin: I received M.Sc. in physics from IIT, Bombay
-- :memo: I’m learning about black hole perturbation theory
+- :memo: I’m learning
+  -  black hole perturbation theory
+  -  High performance computing
 - 💬 Ask me about phyics, black holes, universe etc 
 
 To know more about my research please visit (www.riteshbachhar.com). Feel free to contact me (riteshbachhar@gmail.com) for interesting conversations and collaboration.
