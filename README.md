@@ -4,7 +4,10 @@ A **Graduate Research Assistant** in the physics department at the [University o
 
 I'm currently developing surrogate models of gravitational waves emitted bianry black holes (BBH). My research also extends to analyzing the effect of uncertainty in waveform modeling, and I am deeply involded in studying the phenomenology of two merging black holes.
 
-- :computer: I’m currently working on [Black Hole Perturbation Toolkit](http://bhptoolkit.org)
+- :computer: I’m currently working on
+  - Surrogate modeling of gravitational waves; [Black Hole Perturbation Toolkit](http://bhptoolkit.org)
+  - Gravitational wave inference
+  - Black hole phenomenology and tidal interaction of BHs
 - :fountain_pen: I'm a Ph.D. student at the University of Rhode Island
 - :pushpin: I received M.Sc. in physics from IIT, Bombay
 - :memo: I’m learning about black hole perturbation theory
