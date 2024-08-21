@@ -13,6 +13,6 @@ I'm currently developing surrogate models of gravitational waves emitted bianry 
 - :memo: I’m learning
   -  black hole perturbation theory
   -  High performance computing
-- 💬 Ask me about phyics, black holes, universe etc 
+- 💬 I know a thing or two about phyics of black holes
 
 To know more about my research please visit (www.riteshbachhar.com). Feel free to contact me (riteshbachhar@gmail.com) for interesting conversations and collaboration.
