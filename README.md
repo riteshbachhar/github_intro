@@ -2,8 +2,6 @@
 
 A **Graduate Research Assistant** in the physics department at the [University of Rhode Island](https://web.uri.edu/physics/), actively engaged with gravity research group [U2GRC](https://web.uri.edu/gravity/).
 
-I'm currently developing surrogate models of gravitational waves emitted bianry black holes (BBH). My research also extends to analyzing the effect of uncertainty in waveform modeling, and I am deeply involded in studying the phenomenology of two merging black holes.
-
 - :computer: I’m currently working on
   - Surrogate modeling of gravitational waves using [Black Hole Perturbation Toolkit](http://bhptoolkit.org)
   - Gravitational wave inference and waveform systematics
