@@ -1,6 +1,6 @@
 ## Hello there 👋 I'm Ritesh
 
-A **Graduate Research Assistant** in the physics department at the [University of Rhode Island](https://web.uri.edu/physics/), actively engaged with gravity research group [U2GRC](https://web.uri.edu/gravity/).
+A **Graduate Student** in the physics department at the [University of Rhode Island](https://web.uri.edu/physics/), actively engaged with gravity research group [U2GRC](https://web.uri.edu/gravity/).
 
 - :computer: I’m currently working on
   - Surrogate modeling of gravitational waves using [Black Hole Perturbation Toolkit](http://bhptoolkit.org)
